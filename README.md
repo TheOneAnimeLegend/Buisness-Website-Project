@@ -1,2 +1,2 @@
-# Buisness-Website-Project
+# BuisnessWebsiteProject
 Demonstration of creating a Github repo.
